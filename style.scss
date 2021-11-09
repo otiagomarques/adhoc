@@ -23,10 +23,17 @@ body {
   color: $ahblue;
 }
 
-.container {
+.containtitle {
   margin: 0 auto;
   max-width: 500px;
   padding: 0 10px;
+  width: 100%;
+  background: $ahblue;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 500px;
   width: 100%;
 }
 
@@ -56,7 +63,7 @@ h2 {
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 h4 {
@@ -69,7 +76,7 @@ p {
 }
 
 a {
-  color: $white;
+  color: $ahblue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -152,6 +159,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  background: $ahblue;
 }
 
 .masthead {
@@ -161,12 +169,12 @@ img {
   @include mobile {
     text-align: center;
     }
-
   }
   
 
 .site-info {
   float: left;
+  background: $ahblue;
 
   @include mobile {
     float: none;
@@ -183,12 +191,14 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+  background: $ahblue;
 }
 
 .site-description {
   margin: -5px 0 0 0;
   color: $darkerGray;
   font-size: 16px;
+  background: $ahblue;
 
   @include mobile {
     margin: 3px 0;
@@ -236,12 +246,8 @@ nav {
 
 .post {
   blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
     color: $darkerGray;
-    font-size: 22px;
-    font-style: italic;
+    font-size: 18px;
   }
 
   .comments {
