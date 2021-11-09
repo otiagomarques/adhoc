@@ -72,6 +72,10 @@ h4 {
 }
 
 h3, h4 {
+  width: 50%;
+  height: 60px;
+  margin: 0;
+  padding: 0;
   display: inline-block;
 }
 
@@ -84,7 +88,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $ahblue;
+    color: $lightGray;
   }
 }
 
@@ -188,10 +192,11 @@ img {
 }
 
 .site-name {
+  font: 18px/1.4 $georgia;
   margin: 0;
   color: $darkerGray;
   cursor: pointer;
-  font-family: $georgia;
+ sea
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -269,8 +274,6 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
   background-color: $darkGray;
 }
 
