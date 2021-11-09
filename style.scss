@@ -192,11 +192,10 @@ img {
 }
 
 .site-name {
-  font: 18px/1.4 $georgia;
+  font: $georgia;
   margin: 0;
   color: $darkerGray;
   cursor: pointer;
- sea
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
