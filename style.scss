@@ -35,6 +35,10 @@ body {
   margin: 0 auto;
   max-width: 500px;
   width: 100%;
+	
+	@include mobile {
+    margin: 8px 0;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -236,6 +240,9 @@ img {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
+  }
+	@include mobile {
+    margin: 8px 0;
   }
 }
 
