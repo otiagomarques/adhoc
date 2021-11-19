@@ -198,11 +198,6 @@ img {
   color: $darkerGray;
   font-size: 16px;
   background: $ahblue;
-
-  @include mobile {
-    margin: 3px auto;
-    padding: 2%;
-  }
 }
 
 
@@ -212,8 +207,7 @@ img {
 
 .posts > .post {
 	@include mobile {
-    margin: 3px auto;
-    padding: 2%;
+    margin: 3px;
   }
   
 }
@@ -238,7 +232,6 @@ img {
   }
 	@include mobile {
     margin: 3px auto;
-    padding: 2%;
   }
 }
 
