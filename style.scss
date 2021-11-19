@@ -35,10 +35,6 @@ body {
   margin: 0 auto;
   max-width: 500px;
   width: 100%;
-	
-	@include mobile {
-    margin: 8px auto;
-    padding: 15%;
   }
 }
 
@@ -205,8 +201,8 @@ img {
   background: $ahblue;
 
   @include mobile {
-    margin: 8px auto;
-    padding: 15%;
+    margin: 3px auto;
+    padding: 2%;
   }
 }
 
@@ -217,8 +213,8 @@ img {
 
 .posts > .post {
 	@include mobile {
-    margin: 8px auto;
-    padding: 15%;
+    margin: 3px auto;
+    padding: 2%;
   }
   
 }
@@ -242,8 +238,8 @@ img {
     font-size: 15px;
   }
 	@include mobile {
-    margin: 8px auto;
-    padding: 15%;
+    margin: 3px auto;
+    padding: 2%;
   }
 }
 
