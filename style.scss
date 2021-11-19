@@ -207,7 +207,7 @@ img {
 
 .posts > .post {
 	@include mobile {
-    margin: 3px;
+    margin: 3px auto;
   }
   
 }
