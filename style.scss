@@ -207,7 +207,8 @@ img {
 
 .posts > .post {
 	@include mobile {
-    margin: 3px auto;
+    padding-right: 8px auto;
+    padding-left: 8px auto
   }
   
 }
@@ -231,7 +232,8 @@ img {
     font-size: 15px;
   }
 	@include mobile {
-    margin: 3px auto;
+    padding-right: 8px auto;
+    padding-left: 8px auto
   }
 }
 
