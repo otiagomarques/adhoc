@@ -190,7 +190,10 @@ img {
   background: $ahblue;
   &:hover, &:active {
     color: $white;
-  }
+	}
+		 @include mobile {
+   	 	text-align: center;
+ 		 }
 }
 
 .site-description {
@@ -207,8 +210,8 @@ img {
 
 .posts > .post {
 	@include mobile {
-    padding-right: 8px auto;
-    padding-left: 8px auto
+    padding-right: 8px;
+    padding-left: 8px;
   }
   
 }
@@ -232,8 +235,8 @@ img {
     font-size: 15px;
   }
 	@include mobile {
-    padding-right: 8px auto;
-    padding-left: 8px auto
+    padding-right: 8px;
+    padding-left: 8px auto;
   }
 }
 
