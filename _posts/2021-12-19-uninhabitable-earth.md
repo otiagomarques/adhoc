@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Will We Live On This Uninhabitable Planet?
+title: Life On This Uninhabitable Planet?
 ---
 
 It's no longer a matter of discussion - we'll eventually not be fit for this planet. Human culture has developed way way faster than natural evolution. We have too many people, and the few resources we have are scarcening.
