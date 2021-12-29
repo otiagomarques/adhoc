@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''Leaders''
+title: "Leaders"
 ---
 
 Everything would be better if there were no leaders. Centralised power is the recipe for chaos. Analyse the history of the world and you'll arrive to a conclusion: all progress was incentivised by war.
