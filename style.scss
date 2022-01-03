@@ -78,11 +78,11 @@ p {
 }
 
 a {
-  color: $ahblue;
+  color: $lightGray;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $lightGray;
+    color: $darkGray;
   }
 }
 
