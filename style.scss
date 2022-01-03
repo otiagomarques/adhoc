@@ -52,15 +52,15 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
-  color: $inherit;
+  color: $white;
   a {
-    color: $darkGray;
+    color: $darkerGray;
   }
 }
 
 h2 {
   font-size: 24px;
-  color: $white;
+  color: $ahblue;
 }
 
 h3 {
@@ -178,6 +178,9 @@ img {
 .site-info {
   float: left;
   background: $ahblue;
+	 @include mobile {
+   	 	text-align: center;
+ 		 }
 }
 
 .site-name {
