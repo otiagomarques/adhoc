@@ -3,7 +3,7 @@ layout: post
 title: Outgrowing Clubs
 ---
 
-I used to keep a list of the best things in live. Just as a note to remeber the wonders of the world and our culture. One of the topics on that list was the blissful experience of dancing til sunrise with strangers (and also friends, for that matter). I remember instances of those moments in crowded exterior blaconys from those famous clubs just by ther river. Sorrounded by all sorts of people all colectively in awe of the utter beauty of dawn. All expressing that same feelings with their silly body movements. I used compare such sesantions with those of participanting in the communion of the sunday mass- a moment of pure human conecttion, of pure colective enlightment, a moment of shared bliss.
+I used to keep a list of the best things in live. Just as a note to remeber the wonders of the world and our culture. One of the topics on that list was the blissful experience of dancing til sunrise with strangers (and also friends, for that matter). I remember instances of those moments in crowded exterior blaconys from those famous clubs just by ther river. Sorrounded by all sorts of people all colectively in awe of the utter beauty of dawn. All expressing those same feelings with their silly body movements. I used compare such sesantions with those of participanting in the communion of the sunday mass- a moment of pure human conecttion, of pure colective enlightment, a moment of shared bliss.
 
 Well, yesterday I went to a club. And you know what? I hated it. Everything about it was just awful. The people, the stupidly loud music, the whole flirting culture, the smell... It just felt like an horrible expericnce. What happened to clubs? Or worse, what happened to me?
 
