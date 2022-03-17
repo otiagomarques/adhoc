@@ -32,7 +32,7 @@ The whole point about individualism on modern society from Foucault's _Disciplin
 
 What inspired me to think more deeply about this topic was this wonderful little book called _the Art of Loving_ by Erich Fromm, which proposes that love should be seen as an art, and as such practiced, thought about, intentioned... and offers a view on how one might love on such an unloveable society.
 
-So what are your thoughts? Do you also feel lonely, or do you feel like you meaningfully connect? If so, how so? Share your ideas with me by sending me an e-mail to [mailadhoc@protonmail.ch](mailtomailadhoc@protonmail.ch), who knows we might connect.
+So what are your thoughts? Do you also feel lonely, or do you feel like you meaningfully connect? If so, how so? Share your ideas with me by sending me an e-mail to [mailadhoc@protonmail.ch](mailto:mailadhoc@protonmail.ch), who knows we might connect.
 
 
 
